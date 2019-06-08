@@ -1,12 +1,10 @@
-
-
-##Naming Convention Standards for Compute 
+## Naming Convention Standards for Compute 
 
 Virtual Machines in Microsoft Azure have two unique names – VM name and Host name. When a machine is created in portal it uses the same name for both VM name and Host name. So the actual resource name can have up to 64 characters but for domain join with Active directory it is required for hostnames to be setup for 15 characters for both Windows and Linux machines 
 
  
 
-###Naming Structure for Host names (Windows & Linux) 
+### Naming Structure for Host names (Windows & Linux) 
 
 The convention consists of 6 separate segments and limits the maximum name size that is within scope of the total numbers of characters allowed for host name.  Below is an overview of how the name is broken down. 
 
@@ -14,7 +12,7 @@ Please note although shown as upper CASE implied this is only to emphasizes the 
 
  
 
-####PPP/LLL/EE/O/AAA/NNN 
+#### PPP/LLL/EE/O/AAA/NNN 
 
 Segment 	 | 	Name 	 | 	Example 
 ------------	 | 	------------	 | 	------------
