@@ -2,6 +2,6 @@
 
 This is the definitive source for Cloud Product Availability within Acme.
 
-Product |Non Prod | Primary Region | Secondary REgion
+Product |Non Prod | Primary Region | Secondary Region
 ------------ |------------ | ------------- | -------------
 Active Directory | Available  | On Hold | On Hold
