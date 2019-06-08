@@ -1,4 +1,4 @@
-# Welcome to the <TBC> Product Catalogue
+# Welcome to the Cloud Product Catalogue
 
 This is the definitive source for Cloud Product information within <TBC>.
 
