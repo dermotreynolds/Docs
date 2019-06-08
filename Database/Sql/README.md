@@ -8,7 +8,7 @@ There are a number of formats for levaraging Sql in Azure.  These options are gi
 
 Format	 | 	Type	 | 	Run Cost | 	Support Cost
 ------------	 | 	------------	 | 	------------ | 	------------
-Azure Sql	 | 	PaaS	 | 	Low | 	Low
+[Azure Sql](AzureSql.md)	 | 	PaaS	 | 	Low | 	Low
 Azure Sql MI	| 	PaaS	 | 	High | 	Low
 Sql on VM	| 	IaaS	 | 	High | 	High
 
