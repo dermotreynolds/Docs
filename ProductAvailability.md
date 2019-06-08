@@ -1,4 +1,4 @@
-# Welcome to the Acme Product Availability Page
+# Acme Product Availability Page
 
 This is the definitive source for Cloud Product Availability within Acme.
 
