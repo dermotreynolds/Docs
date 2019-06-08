@@ -4,7 +4,7 @@ This is the definitive source for Sql Database Products in Cloud
 
 There are a number of formats for levaraging Sql in Azure.  These options are given below.
 
-##Options
+## Options
 
 Format	 | 	Type	 | 	Run Cost | 	Support Cost
 ------------	 | 	------------	 | 	------------ | 	------------
@@ -12,4 +12,4 @@ Format	 | 	Type	 | 	Run Cost | 	Support Cost
 Azure Sql MI	| 	PaaS	 | 	High | 	Low
 Sql on VM	| 	IaaS	 | 	High | 	High
 
-##Azure Sql
+
