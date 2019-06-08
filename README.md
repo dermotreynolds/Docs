@@ -10,3 +10,4 @@ If your are new to the platform you may want to look at our [Getting Started](Ge
 
 ## Product Availability
 
+If you would like to find out about the availability of products on the platform then you can look at our [Product Availability](ProductAvailability.md) page.
