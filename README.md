@@ -1,6 +1,6 @@
-# Welcome to the Acme Product Catalogue
+# Welcome to the <TBC> Product Catalogue
 
-This is the definitive source for Cloud Product information within Acme.
+This is the definitive source for Cloud Product information within <TBC>.
 
 It will provide you guidance on what is available within the platform and how you can consume it.
 

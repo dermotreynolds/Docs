@@ -1,6 +1,6 @@
-# Welcome to the Acme Platform Standards
+# Welcome to the <TBC> Platform Standards
 
-This is the definitive source for Cloud Platform Standards within Acme.
+This is the definitive source for Cloud Platform Standards within <TBC>.
 
 
 ## Naming Conventions
