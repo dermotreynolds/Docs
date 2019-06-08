@@ -1,2 +1,2 @@
 # docs
-./Network
+[a relative link](Network)
