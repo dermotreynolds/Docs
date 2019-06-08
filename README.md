@@ -1,6 +1,6 @@
-# Welcome to the Cloud Product Catalogue
+# Welcome to the ABC Cloud Product Catalogue
 
-This is the definitive source for Cloud Product information within <TBC>.
+This is the definitive source for Cloud Product information within ABC.
 
 It will provide you guidance on what is available within the platform and how you can consume it.
 
