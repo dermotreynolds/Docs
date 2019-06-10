@@ -16,11 +16,11 @@
         Database, Ec2Cluster, RdsCluster } } = window;
 
         const client = new Client();
-        const firewall = new Server('Palo Alto \n   Controls: \n IPS \n IDS \n ');
-        const appgateway = new Server('Application Gateway(WAF)');
+        const firewall = new Server('(1) Palo Alto \n   Controls: \n IPS \n IDS \n ');
+        const appgateway = new Server('(2) Application Gateway(WAF)');
 
-        const appservice = new Server('App Service');
-        const database = new Database('Database');
+        const appservice = new Server('(3) App Service');
+        const database = new Database('(4) Database');
 
         client.sendsDataTo(firewall);
         firewall.sendsDataTo(appgateway);
