@@ -15,12 +15,12 @@
         const { diagram, dac: { Client, Server, 
         Database, Ec2Cluster, RdsCluster } } = window;
 
-        const client = new Client();
-        const firewall = new Server('(1) Palo Alto \n   Controls: \n IPS \n IDS \n ');
-        const appgateway = new Server('(2) Application Gateway(WAF)');
+        const client = new Client('(1)');
+        const firewall = new Server('(2) Palo Alto \n   Controls: \n IPS \n IDS \n ');
+        const appgateway = new Server('(3) Application Gateway(WAF)');
 
-        const appservice = new Server('(3) App Service');
-        const database = new Database('(4) Database');
+        const appservice = new Server('(4) App Service');
+        const database = new Database('(5) Database');
 
         client.sendsDataTo(firewall);
         firewall.sendsDataTo(appgateway);
